@@ -12,7 +12,7 @@ _Beoordelings moment :_
 Aan het einde van sprint 0 vragen we om de volgende inleverstukken: 
 
 1. Game Design Document
-    - Zie [template](https://github.com/k-maweb/Mythe/edit/main/README.md) voor content/inhoud.
+    - Zie [template](https://github.com/k-maweb/Mythe/blob/main/GameDesign%20Template.md) voor content/inhoud.
 2. Link git repository
     - Voor het samen werken wordt er gebruikt gemaakt van git. Lever de link in van de correct opgezette git repository. Je kunt git ook gebruiken voor het aanleveren van documentatie.
 3. Technical Design Document (GD)
