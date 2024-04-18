@@ -32,7 +32,7 @@ Aan het eind van sprint 2 wordt er per team klassikaal een tussentijdse demo van
 2. Demo ( o.a. speelbaarheid )
 3. Proces (planning, samenwerking etc)
 
-We vragen we om de volgende inleverstukken via (een link op) git : 
+We vragen we om de volgende inleverstukken via (een link op op de read me ) git : 
 1. Agile planning (trello, jira, etc)
 2. Tussentijdse build
 
@@ -46,7 +46,7 @@ Hierbij wordt beoordeeld op:
 2. Demo van eind product 
 3. Process (planning, samenwerking etc)
 
-We vragen we om de volgende inleverstukken via (een link op) git : 
+We vragen we om de volgende inleverstukken via (een link op op de read me ) git : 
 1. Agile planning (trello, jira, etc)
 2. Release build (speelbaar spel)
 3. Retrospectieve  (individuele input)
