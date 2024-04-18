@@ -25,10 +25,10 @@ Dit ontwerp wordt in release fase gemaakt.
    - Beschrijf het technische probleem dat zich tijdens de ontwikkeling heeft voorgedaan.
 
 2. Impact:
-  - Wat was het effect van dit probleem op de gameplay, prestaties of gebruikerservaring?
+   - Wat was het effect van dit probleem op de gameplay, prestaties of gebruikerservaring?
 
 3. Oplossing:
-  - Beschrijf wat er is gedaan om het probleem op te lossen. Dit kan variëren van het wijzigen van code en scripts tot het implementeren van specifieke Unity-functies of plugins om het probleem aan te pakken
+   - Beschrijf wat er is gedaan om het probleem op te lossen. Dit kan variëren van het wijzigen van code en scripts tot het implementeren van specifieke Unity-functies of plugins om het probleem aan te pakken
 
 4. Reflectie:
-  - Wat hebben we geleerd van dit proces en hoe kunnen we vergelijkbare problemen in de toekomst voorkomen?
+   - Wat hebben we geleerd van dit proces en hoe kunnen we vergelijkbare problemen in de toekomst voorkomen?
