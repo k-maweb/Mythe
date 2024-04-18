@@ -15,8 +15,8 @@ Aan het einde van sprint 0 vragen we om de volgende inleverstukken:
     - Zie [template](https://github.com/k-maweb/Mythe/blob/main/GameDesign%20Template.md) voor content/inhoud. Je kunt git ook gebruiken voor het aanleveren van documentatie, kiezen jullie voor een andere methode voeg dan de link naar de documentatie toe op de git pagina.
 2. Link git repository
     - Voor het samen werken wordt er gebruikt gemaakt van git. Lever de link in van de correct opgezette git repository. 
-3. Technical Design Document (GD)
-    - Dit is optioneel/**BONUS**. Zie [template](https://github.com/k-maweb/Mythe/edit/main/README.md) voor content/inhoud. Je kunt git ook gebruiken voor het aanleveren van documentatie, kiezen jullie voor een andere methode voeg dan de link naar de documentatie toe op de git pagina.
+3. Technical Design Document pre-production (GD)
+    - Dit is optioneel/**BONUS**. Zie [template](https://github.com/k-maweb/Mythe/blob/main/Technical%20Design%20Document.md) voor content/inhoud. Je kunt git ook gebruiken voor het aanleveren van documentatie, kiezen jullie voor een andere methode voeg dan de link naar de documentatie toe op de git pagina.
 
 
 **Productie (sprint 1 t/3)**
@@ -50,5 +50,5 @@ We vragen we om de volgende inleverstukken via (een link op) git :
 1. Agile planning (trello, jira, etc)
 2. Release build (speelbaar spel)
 3. Retrospective (individuele input0
-4. Game design & technisch document
-5. Github link
+4. Game Design & Technical Document release (https://github.com/k-maweb/Mythe/blob/main/Technical%20Design%20Document.md)
+6. Github link
