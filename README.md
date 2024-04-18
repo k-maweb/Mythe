@@ -8,7 +8,7 @@ Je kunt [hier](https://github.com/k-maweb/Mythe/edit/main/README.md) hier een li
 
 In deze fase gaan jullie het concept van de game vaststellen. Hiervoor gaan jullie gebruik maken van een (one page) game design document. Het is belangrijk om goed te beschrijven en uit te denken wat er gemaakt gaat worden voordat er daadwerkelijk aan het spel gewerkt wordt. Wij hebben alvast een [game design template](https://github.com/k-maweb/Mythe/edit/main/README.md) opgezet en deze dienen jullie te gebruiken voor het schrijven van jullie document. 
 
-_Beoordelings moment _
+_Beoordelings moment_
 Aan het einde van sprint 0 vragen we om de volgende inleverstukken: 
 
 1. Game Design Document
@@ -25,7 +25,7 @@ We gaan voor dit project werken in korte sprints van 2 weken. Voordat een sprint
 
 Aan het eind van elke sprint is een review en gaan jullie samen met een coach kijken naar wat er gemaakt is de afgelopen sprint. Je hebt pas echt goed een beeld van spel als het ook uitgeprobeerd kan worden, dus een speelbare versie is een pré! 
 
-_Beoordelings moment Sprint 2 _
+_Beoordelings moment Sprint 2_
 
 Aan het eind van sprint 2 wordt er per team klassikaal een tussentijdse demo van het spel gepresenteerd (<= 8 min). Hierbij wordt beoordeeld op:
 1. Proffesionaliteit van de presentatie (taalgebruik, vormgeving presentatie, gedrag presentatoren)
@@ -37,7 +37,7 @@ We vragen we om de volgende inleverstukken:
 2. Tussentijdse build
 
 
-_Beoordelings moment Sprint 3 _
+_Beoordelings moment Sprint 3_
 
 Aan het eind van sprint 3 wordt er per team klassikaal een presentatie van maximaal 10 minuten gegeven over het eind product.
 Hierbij wordt beoordeeld op:
