@@ -15,7 +15,7 @@ geladen op basis van zijn locatie. Dit zorgt voor een vloeiende spelervaring zon
 1. Definiëren van gebieden:
    - Definieer de spelwereld in verschillende gebieden of sectoren. Deze gebieden kunnen bijvoorbeeld worden gemarkeerd met behulp van 'triggers' of coördinaten in de spelwereld.
 2. Beheer van geladen gebieden:
-  - We maken een managerklasse aan die verantwoordelijk is voor het beheren van de geladen gebieden. Deze manager houdt bij welke gebieden momenteel geladen zijn en welke gebieden in de buurt van de speler liggen..
+   - We maken een managerklasse aan die verantwoordelijk is voor het beheren van de geladen gebieden. Deze manager houdt bij welke gebieden momenteel geladen zijn en welke gebieden in de buurt van de speler liggen..
 
 
 Technisch ontwerp (release): 
