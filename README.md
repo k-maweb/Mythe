@@ -6,7 +6,7 @@ Je kunt [hier](https://github.com/k-maweb/Mythe/edit/main/README.md) hier een li
 
 **Pre productie (sprint 0)**
 
-In deze fase gaan jullie het concept van de game vaststellen. Hiervoor gaan jullie gebruik maken van een (one page) game design document. Het is belangrijk om goed te beschrijven en uit te denken wat er gemaakt gaat worden voordat er daadwerkelijk aan het spel gewerkt wordt. Wij hebben alvast een [game design template](https://github.com/k-maweb/Mythe/edit/main/README.md) opgezet en deze dienen jullie te gebruiken voor het schrijven van jullie document. 
+In deze fase gaan jullie het concept van de game vaststellen. Hiervoor gaan jullie gebruik maken van een (one page) game design document. Het is belangrijk om goed te beschrijven en uit te denken wat er gemaakt gaat worden voordat er daadwerkelijk aan het spel gewerkt wordt. Wij hebben alvast een [game design template](https://github.com/k-maweb/Mythe/blob/main/README.md) opgezet en deze dienen jullie te gebruiken voor het schrijven van jullie document. 
 
 _Beoordelings moment :_
 Aan het einde van sprint 0 vragen we om de volgende inleverstukken: 
