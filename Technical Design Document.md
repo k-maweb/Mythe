@@ -7,7 +7,7 @@ Voeg een technical ontwerp/design toe aan het game design document. Een technisc
 
 
 Technisch ontwerp (pre-production):
-Voordat er aan het spel gewerkt wordt kun je technische ontwerpen documenteren. Je documenteerd hierbij het technische opstakel en de (mogelijke) oplossing(en). 
+Voordat er aan het spel gewerkt wordt kun je technische ontwerpen documenteren. Je documenteert hierbij het technische obstakel en de (mogelijke) oplossing(en). 
 
 _Voorbeeld probleem:_
 "Om ervoor te zorgen dat het laden van nieuwe gebieden in de game geen vertragingen veroorzaakt, implementeren we een 'streaming' systeem waarbij alleen de directe omgeving van de speler wordt
