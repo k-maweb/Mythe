@@ -1,7 +1,7 @@
 # Mythe
 Game Repository Assignment - Mythe GD
 
-Je kunt [hier](https://github.com/k-maweb/Mythe/edit/main/README.md) hier een lijst vinden van mogelijke game genres mocht je inpsiratie nodig hebben bij het kiezen van een genre. De mythes worden random gekozen tijdens de seremonie.
+Je kunt [hier](https://github.com/k-maweb/Mythe/edit/main/README.md) hier een lijst vinden van mogelijke game genres mocht je inpsiratie nodig hebben bij het kiezen van een genre. De mythes worden random gekozen tijdens de ceremonie.
 
 
 **Pre productie (sprint 0)**
